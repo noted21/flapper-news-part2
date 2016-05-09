@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Air Elemental",
+        "colors":["Blue"],
+        "types":["Creature"]
+    },    
+    {
+        "name":"Ancestral Recall",
+        "colors":["Blue"],
+        "types":["Instant"]
+    },
+    {
+        "name":"Animate Artifact",
+        "colors":["Blue"],
+        "types":["Enchantment"]
+    },
+    {
+        "name":"Animate Dead",
+        "colors":["Black"],
+        "types":["Enchantment"]
+    }
+]
